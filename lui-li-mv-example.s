@@ -1,3 +1,5 @@
+# MIT 6.004 L04: Procedures and MMIO
+
 #li and lui are not memory operations
 # li - load immediate
 
